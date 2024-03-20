@@ -8,5 +8,4 @@ Our information security report provides a comprehensive assessment of the risks
 
 Identification of Vulnerability: The identified vulnerability pertains to the presence of an open Microsoft Terminal Service (MS-WBT) on port 3389/tcp on the website. This service, when left open and accessible, poses a significant security risk as it could potentially allow unauthorized users to gain remote access to the server hosting the website. This vulnerability exposes the website to various threats, including unauthorized access, data manipulation, and potential compromise of sensitive information stored on the server.
 
-
-_**For more details, download the report file called Cyber Security Report By Ramzey_elsayed **_
+**_**For more details, download the report file called Cyber Security Report By Ramzey_elsayed **_**
